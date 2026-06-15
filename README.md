@@ -12,11 +12,12 @@
 
 ## 🧠 About Me
 
-* 🎓 Computer Science Graduate (CGPA: 9.09)
-* 🏆 Cracked GATE CSE Twice
-* 💻 Strong in Java, DSA & Problem Solving
+* 🎓 B.Tech. Computer Science Graduate (CGPA: 9.09)  & M.Tech. Signal Processing and Machine Learning Pursuing (CGPA: 8.0)
+* 🏆 Cracked GATE CSE Thrice & GATE DA Twice
+* 💻 Strong in C++, Python, DSA & Problem Solving
 * 🤖 Passionate about Machine Learning & Deep Learning
 * 🔬 Interested in AI Research and Optimization Algorithms
+* 💡 Building Major project into Biomedical Imaging, Computer Vision & Deep Learning
 * 🚀 Building End-to-End ML Projects
 
 ---
