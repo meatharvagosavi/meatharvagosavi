@@ -104,4 +104,6 @@
 ---
 
 ⭐ "Code. Learn. Build. Repeat."
-https://www.holopin.io/@meatharvagosavi#
+
+[![@meatharvagosavi Holopin board](https://holopin.io)](https://holopin.io)
+
