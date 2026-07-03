@@ -102,7 +102,8 @@
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/atharvagosavi2025)
 
-[![Kaggle](https://shields.io)](https://www.kaggle.com/atharvargosavi)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/atharvargosavi)
+
 ---
 
 ⭐ "Code. Learn. Build. Repeat."
