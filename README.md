@@ -105,5 +105,5 @@
 
 ⭐ "Code. Learn. Build. Repeat."
 
-[![@meatharvagosavi Holopin board](https://holopin.io)](https://holopin.io)
+[![An image of @meatharvagosavi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/meatharvagosavi)](https://holopin.io/@meatharvagosavi)
 
