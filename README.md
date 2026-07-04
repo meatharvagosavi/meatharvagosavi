@@ -64,7 +64,6 @@
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Anaconda Cloud](https://img.shields.io/badge/Anaconda%20Cloud-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
@@ -92,9 +91,8 @@
 
 ---
 
-## 🌐 Gmail - argosavi2019@gmail.com
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me - argosavi2019@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/arg-57sam255?trk=people-guest_people_search-card)
 
