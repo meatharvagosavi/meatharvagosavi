@@ -66,9 +66,11 @@
 
 ## 📊 GitHub Stats
 
-![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=meatharvagosavi\&show_icons=true\&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meatharvagosavi\&layout=compact\&theme=tokyonight)
+![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=meatharvagosavi&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meatharvagosavi&layout=compact&theme=transparent)
 
 ---
 
