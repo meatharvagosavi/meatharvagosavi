@@ -65,12 +65,6 @@
 ![Anaconda Cloud](https://img.shields.io/badge/Anaconda%20Cloud-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 
-## 📊 GitHub Stats
-
-![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=meatharvagosavi&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meatharvagosavi&layout=compact&theme=transparent)
-
 ---
 
 ## 🔥 Streak Stats
