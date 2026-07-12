@@ -17,8 +17,8 @@
 * 💻 Strong in C++, Python, DSA & Problem Solving
 * 🤖 Passionate about Machine Learning & Deep Learning
 * 🔬 Interested in AI Research and Optimization Algorithms
-* 💡 Building Major project into Biomedical Imaging, Computer Vision & Deep Learning
-* 🚀 Building End-to-End ML Projects
+* 💡 Building Major project into Biomedical Imaging, Computer Vision, Natural Language Processing & Deep Learning
+* 🚀 Building End-to-End AI & ML Projects
 
 ---
 
